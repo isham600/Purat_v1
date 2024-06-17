@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Laravelapi/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/Laravelapi/database/factories" isTestSource="false" packagePrefix="Database\Factories\" />
+      <sourceFolder url="file://$MODULE_DIR$/Laravelapi/database/seeders" isTestSource="false" packagePrefix="Database\Seeders\" />
+      <sourceFolder url="file://$MODULE_DIR$/Laravelapi/passport/database/factories" isTestSource="false" packagePrefix="Laravel\Passport\Database\Factories\" />
+      <sourceFolder url="file://$MODULE_DIR$/Laravelapi/passport/src" isTestSource="false" packagePrefix="Laravel\Passport\" />
+      <sourceFolder url="file://$MODULE_DIR$/Laravelapi/passport/tests" isTestSource="true" packagePrefix="Laravel\Passport\Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/Laravelapi/passport/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Laravelapi/passport/workbench/app" isTestSource="true" packagePrefix="Workbench\App\" />
+      <sourceFolder url="file://$MODULE_DIR$/Laravelapi/passport/workbench/database/factories" isTestSource="true" packagePrefix="Workbench\Database\Factories\" />
+      <sourceFolder url="file://$MODULE_DIR$/Laravelapi/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/Laravelapi/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/brick/math" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/carbonphp/carbon-doctrine-types" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/defuse/php-encryption" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/dflydev/dot-access-data" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/fakerphp/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/firebase/php-jwt" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/fruitcake/php-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/graham-campbell/result-type" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/guzzlehttp/uri-template" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/laravel/passport" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/laravel/pint" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/laravel/prompts" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/laravel/sail" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/laravel/sanctum" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/laravel/serializable-closure" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/lcobucci/clock" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/lcobucci/jwt" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/league/commonmark" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/league/config" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/league/event" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/league/flysystem-local" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/league/mime-type-detection" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/league/oauth2-server" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/league/uri" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/league/uri-interfaces" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/nette/schema" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/nette/utils" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/nunomaduro/collision" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/nunomaduro/termwind" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/nyholm/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/paragonie/constant_time_encoding" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/phpseclib/phpseclib" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/phpunit/php-invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/psr/clock" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/ramsey/collection" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/sebastian/cli-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/sebastian/code-unit" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/sebastian/complexity" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/sebastian/lines-of-code" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/sebastian/type" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/spatie/backtrace" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/spatie/flare-client-php" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/spatie/ignition" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/spatie/laravel-ignition" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/symfony/error-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/symfony/mailer" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/symfony/polyfill-php83" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/symfony/polyfill-uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/symfony/psr-http-message-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/symfony/uid" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/symfony/yaml" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/twilio/sdk" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/voku/portable-ascii" />
+      <excludeFolder url="file://$MODULE_DIR$/Laravelapi/vendor/webmozart/assert" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
